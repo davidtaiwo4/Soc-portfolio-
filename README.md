@@ -52,7 +52,7 @@ Key Skills:
 - Log ingestion and parsing  
 - Dashboard creation and data visualization  
 
-🔗 [View Project](#)
+🔗 [View Project](https://github.com/davidtaiwo4/Splunk-home-lab-set-up)
 
 ---
 
