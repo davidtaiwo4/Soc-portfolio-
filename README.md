@@ -80,7 +80,7 @@ Key Skills:
 - IOC extraction  
 - Social engineering awareness  
 
-🔗 [View Project](#)
+🔗 [View Project](https://github.com/davidtaiwo4/Phishing-Email-Analysis)
 
 ---
 
