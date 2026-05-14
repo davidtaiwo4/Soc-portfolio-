@@ -20,13 +20,13 @@ Hi, I'm Taiwo. This repository serves as a central portfolio showcasing hands-on
 - Windows  
 - Linux (Ubuntu / Kali)  
 
-### OSINT & Threat Intelligence Tools
-- VirusTotal  
+### OSINT & Threat Intelligence/ Reconnaissance Tools
+- VirusTotal
+- EML analyzer
 - Cisco Talos Intelligence  
 - Shodan  
-- Google Admin Toolbox (Messageheader Analyzer)  
+- Google Messageheader Analyzer  
 - URLScan.io  
-- PhishTool  
 - RDAP (rdap.org)  
 - IPinfo  
 - IP2Location  
@@ -34,10 +34,13 @@ Hi, I'm Taiwo. This repository serves as a central portfolio showcasing hands-on
 - BGPView  
 - Censys  
 - DNSDumpster  
-- Whois (whois.domains)  
+- Whois
+- Crt.sh
+- Nmap
 
 ### Malware Analysis / Sandbox
 - ANY.RUN
+- Browserling (browser sandbox)
 
 ---
 
