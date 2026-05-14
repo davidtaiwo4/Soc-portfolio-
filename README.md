@@ -94,7 +94,7 @@ Key Skills:
 - Traffic filtering and investigation  
 - Identifying anomalies in network behavior  
 
-🔗 [View Project](#)
+🔗 [View Project](https://github.com/davidtaiwo4/network-traffic-analysis)
 
 ---
 
