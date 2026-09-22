@@ -18,7 +18,10 @@ Hi, I'm Taiwo. This repository serves as a central portfolio showcasing my hands
 
 ### Operating Systems
 - Windows  
-- Linux (Ubuntu / Kali)  
+- Linux (Ubuntu / Kali)
+
+### Programming
+- Python
 
 ### OSINT & Threat Intelligence/ Reconnaissance Tools
 - VirusTotal
@@ -57,7 +60,7 @@ Key Skills:
 - Evidence gathering
 - Post-incident analysis and escalation protocols
 
-🔗 [View Project](https://github.com/davidtaiwo4/incident-timeline-reconstruction-and-response)
+🔗 [View Project](https://github.com/davidtaiwo4/Incident-Timeline-Reconstruction-and-Response-)
 
 ### 2. Splunk Home Lab Setup
 Description:  
