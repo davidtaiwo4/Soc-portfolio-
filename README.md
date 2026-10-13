@@ -38,11 +38,11 @@ Skills: incident triage, timeline reconstruction, IOC extraction, detection rule
 
 ### 2. Hunt Engine: Threat Hunting at Scale
 
-Built from scratch in Python, DuckDB and pytest. Ingested about 750,000 JSONL events from five sources, normalised three schema versions, reconstructed three attack campaigns and classified 96 review candidates (80 true positive, 16 false positive). 47+ passing tests. Caught a duplicated log source (one file byte-identical to another) with a SHA256 comparison.
+A Python and DuckDB pipeline that ingests raw security logs, normalizes mixed schema versions, quarantines bad records with traceable locators, and runs reusable hunt queries across sources to reconstruct attack chains. Ingested about 750,000 JSONL events from five sources, normalised schema versions and reconstructed attack campaigns.
 
 Skills: threat hunting, log normalisation, campaign reconstruction, TP/FP triage, automated testing
 
-[View Project](<LINK>)
+🔗 [View Project](https://github.com/davidtaiwo4/hunt-engine) 
 
 ### 3. Detection Engineering: 12 ATT&CK Rules
 
