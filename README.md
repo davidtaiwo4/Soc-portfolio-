@@ -23,27 +23,15 @@ Hi, I'm Taiwo. This repository serves as a central portfolio showcasing my hands
 ### Programming
 - Python
 
-### OSINT & Threat Intelligence/ Reconnaissance Tools
-- VirusTotal
-- EML analyzer
-- Cisco Talos Intelligence  
-- Shodan  
-- Google Messageheader Analyzer  
-- URLScan.io  
-- RDAP (rdap.org)  
-- IPinfo  
-- IP2Location  
-- IPLocation.net  
-- BGPView  
-- Censys  
-- DNSDumpster  
-- Whois
-- Crt.sh
-- Nmap
+### Threat Intelligence & Investigation
+- **Email analysis:** Google Messageheader Analyzer, EML Analyzer
+- **Reputation & URL analysis:** VirusTotal, URLScan.io, Cisco Talos
+- **Infrastructure recon:** Whois/RDAP, crt.sh, Shodan
+- **Sandboxing:** ANY.RUN
 
-### Malware Analysis / Sandbox
-- ANY.RUN
-- Browserling (browser sandbox)
+### Detection & Hunting
+- Python, DuckDB, pytest
+- MITRE ATT&CK mapping
 
 ---
 
