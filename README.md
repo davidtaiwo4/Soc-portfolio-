@@ -1,7 +1,7 @@
 # Tier 1 Security Operations Portfolio
 
 ## Objective
-Hi, I'm Taiwo. This repository serves as a central portfolio showcasing my hands-on Security Operations Center (SOC) projects. I am a graduate with hands-on experience in incident response and security monitoring. Skilled in reconstructing attacker activity from logs, mapping techniques to the MITRE ATT&CK framework and incidence response. Experienced in producing clear, evidence-based incident reports, risk documentation and remediation recommendations. These projects show my ability to monitor logs, analyze alerts, triage and investigate basic security incidents using tools commonly used in real-world environments.
+Hi, I'm Taiwo. This repository serves as a central portfolio showcasing my hands-on Security Operations Center (SOC) projects. I have hands-on experience in incident response and security monitoring. Skilled in reconstructing attacker activity from logs, mapping techniques to the MITRE ATT&CK framework and incidence response. Experienced in producing clear, evidence-based incident reports, risk documentation and remediation recommendations. These projects show my ability to monitor logs, analyze alerts, triage and investigate basic security incidents using tools commonly used in real-world environments.
 
 
 ---
