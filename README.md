@@ -50,7 +50,7 @@ Wrote twelve ATT&CK technique detections in Python against a Windows event repla
 
 Skills: detection engineering, ATT&CK mapping, correlation logic, regression testing
 
-[View Project](<LINK>)
+🔗 [View Project](https://github.com/davidtaiwo4/Detection-Engineering))
 
 ### 4. Network Range as Code
 
