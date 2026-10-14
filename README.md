@@ -54,11 +54,11 @@ Skills: detection engineering, ATT&CK mapping, correlation logic, regression tes
 
 ### 4. Network Range as Code
 
-Defined a seven-zone enterprise network entirely as code on WSL2 using containerlab, FRRouting, nftables and Suricata, with a Jinja2 render pipeline driven by a single `variant.yml`. 30/30 tests passing, four fault-injection and recovery cycles evidenced with nftables counters, and a custom Suricata detection rule.
+Defined a seven-zone enterprise network entirely as code on WSL2 using containerlab, FRRouting, nftables and Suricata, with a Jinja2 render pipeline driven by a single `variant.yml`. 30/30 tests passing, four fault-injection and recovery cycles evidenced with nftables counters and a custom Suricata detection rule.
 
 Skills: network segmentation, firewall policy, IDS rules, infrastructure as code, fault injection
 
-[View Project](<LINK>)
+🔗 [View Project](https://github.com/davidtaiwo4/network-detection-range)
 
 ### 5. Honeypot Threat Analysis
 
