@@ -34,7 +34,7 @@ Rebuilt a full incident (host logs, phishing email, packet capture) into a singl
 
 Skills: incident triage, timeline reconstruction, IOC extraction, detection rules, escalation
 
-🔗 [View Project](https://github.com/davidtaiwo4/Incident-Timeline-Reconstruction-and-Response-)
+🔗 [View Project](https://github.com/davidtaiwo4/Incident-Reconstruction-and-Response-)
 
 ### 2. Hunt Engine: Threat Hunting at Scale
 
@@ -50,7 +50,7 @@ Wrote twelve ATT&CK technique detections in Python against a Windows event repla
 
 Skills: detection engineering, ATT&CK mapping, correlation logic, regression testing
 
-🔗 [View Project](https://github.com/davidtaiwo4/Detection-Engineering))
+🔗 [View Project](https://github.com/davidtaiwo4/Detection-Engineering)
 
 ### 4. Network Range as Code
 
@@ -66,7 +66,7 @@ Analysed a 250,000-row honeypot dataset (T-Pot) with a reproducible Python pipel
 
 Skills: honeypot analysis, behavioural clustering, STIX threat intelligence, reproducible pipelines
 
-[View Project](<LINK>)
+🔗[View Project](https://github.com/davidtaiwo4/Honeypot-threat-analysis)
 
 
 ## Foundation Labs & Investigations
